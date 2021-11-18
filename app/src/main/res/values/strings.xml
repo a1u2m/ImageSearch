@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="search_line_hint">Введите запрос</string>
+    <string name="search">Искать</string>
+</resources>
